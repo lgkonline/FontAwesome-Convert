@@ -8,4 +8,4 @@ This allows you to quickly use those icons by name.
 
 The data will get received directly from the FontAwesome GitHub project, so it is always up-to-date.
 
-Checkout the service at: http://lgkonline.github.io/FontAwesome-Convert/
+Checkout the service at: https://lgkonline.github.io/FontAwesome-Convert/
